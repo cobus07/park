@@ -1,0 +1,55 @@
+/*首页介绍样式*/
+#jieshao{
+	width: 1200px;
+	margin: 0 auto;
+}
+#jieshao img{
+	width: 100%;
+	height: 500px;
+}
+#jieshao h3{
+	width: 100%;
+	height: 70px;
+	font-size: 30px;
+	letter-spacing: 3px;
+	line-height: 70px;
+	text-align: center;
+}
+#content{
+	width: 80%;
+	margin: 20px auto;
+	line-height: 33px;
+	font-size: 20px;
+	text-indent: 50px;
+}
+/*footer*/
+#footer{
+	background-color: #333;
+	clear: both;
+	width: 1200px;
+	height: 100px;
+	margin-top: 30px;
+}
+#footer ul{
+	width: 400px;
+	height: 50px;
+	margin: 0 auto;
+}
+#footer li{
+	float: left;
+	width: 200px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+}
+#footer a{
+	color: #fff;
+}
+#footer p{
+	clear: both;
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+	text-align: center;
+	color: #fff;
+}

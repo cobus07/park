@@ -1,0 +1,16 @@
+form{
+	margin-top: 100px;
+	margin-left: 500px;
+}
+p{
+	height: 50px;
+	text-align: left;
+}
+input[type='text']{
+	height: 30px;
+	width: 170px;
+}
+input[type='submit']{
+	height: 30px;
+	width: 170px;
+}
